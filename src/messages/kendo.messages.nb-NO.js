@@ -76,7 +76,7 @@ if (kendo.ui.ColumnMenu) {
     kendo.ui.ColumnMenu.prototype.options.messages =
     $.extend(true, kendo.ui.ColumnMenu.prototype.options.messages, {
         "columns": "Kolonner",
-        "sortAscending": "Sortere fallende",
+        "sortAscending": "Sortere synkende",
         "sortDescending": "Sortere stigende",
         "settings": "Kolonneinstillinger",
         "done": "Klar",
@@ -189,7 +189,7 @@ if (kendo.ui.Grid) {
             "update": "Oppdater"
         },
         "editable": {
-            "confirmation": "Er du sikker på at du vil slette denna posten?",
+            "confirmation": "Er du sikker på at du vil slette denne posten?",
             "cancelDelete": "Avbryt",
             "confirmDelete": "Slett"
         }
